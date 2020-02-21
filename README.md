@@ -1,4 +1,7 @@
 # Nautodj
+
+
+
 .__   __.      ___      __    __  .___________.  ______    _______         __  
 |  \ |  |     /   \    |  |  |  | |           | /  __  \  |       \       |  | 
 |   \|  |    /  ^  \   |  |  |  | `---|  |----`|  |  |  | |  .--.  |      |  | 
@@ -6,6 +9,9 @@
 |  |\   |  /  _____  \ |  `--'  |     |  |     |  `--'  | |  '--'  ||  `--'  | 
 |__| \__| /__/     \__\ \______/      |__|      \______/  |_______/  \______/  
                                                                                
+                                                            
+                                                            
+                                                            
 
 I'm just a beginner , and this is my first script , so please give me some advices to develop myself in writing scripts . 
 This is a script to automate some django commands , Like ("start a new project , new app , runserver , migrate , install django,make a super user ...") . 
